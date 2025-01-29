@@ -1,0 +1,53 @@
+a{
+    background-color: black;
+    color: aliceblue;
+    margin-right: 250px;
+    
+}
+#one{
+    color: yellow;
+    height: 25px;
+    font-size: 15px;
+}
+/* #two{
+    color:white;
+    border: 5px solid black;
+}
+#three{
+    color:white;
+    border: 50px solid black;
+}
+#four{
+    color:white;
+    border: 50px solid black;
+}
+#five{
+    color:white;
+    border: 50px solid black;
+} */
+
+*{margin: 0;
+padding: 0;;
+
+}p{
+    background-color:black;
+    border: 14px solid;
+    font-size: 16px;
+}
+button{
+    background-color: yellow;
+
+}
+#cra{
+    display:flex;
+    height: auto;
+    width: auto ;
+    flex-wrap: wrap;
+}
+#cra div:hover{
+    transform: scale(1.03);
+    transform:rotate(180deg) ;
+    transform:rotate(-20deg) ;
+    transition: all 1s ease;
+    
+}

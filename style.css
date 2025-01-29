@@ -1,0 +1,47 @@
+body{
+    background-color:blanchedalmond;
+    color:rgb(1, 0, 0);
+    
+}
+
+
+.red{
+    background-color:aqua;   
+    /*                                                 //////////////class */
+    color:brown;
+}
+
+/* #one{
+    background-color: blue;
+      /*                                                 //////////////id */
+}
+/* #two{
+    background-color:blueviolet;
+    color:black;
+} */ 
+a:visited{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+  
+
+/* *{
+    margin:0: ;
+    padding:0;
+} */
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-style: oblique;
+    line-height: 30px;
+    text-align: center;
+    text-decoration-style: dotted;
+    
+    text-decoration: overline;
+    letter-spacing:5px;
+}
+#three {
+    text-decoration-color: azure;
+    text-decoration: wavy;
+}

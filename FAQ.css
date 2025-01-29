@@ -1,0 +1,41 @@
+*{
+    text-align: center;
+    padding:0;
+    margin:0;
+   
+    
+}
+header{
+    background-color: black;
+    line-height: 150px;
+    color: white;font-size: 30px;
+}
+header:hover{
+    color: red;
+}
+p{
+    font-size: 23px;
+    color: rgb(255, 255, 255);
+}
+
+footer{
+    line-height: 150px;
+    text-align: center;
+    
+}
+body{
+    background-image: url(aboutusback.jpg);  color: white;
+    
+}
+a{
+    text-decoration: none;
+    color:yellow;
+
+}
+h2{
+    font-size: 50px;
+    color:red;
+}
+div{
+    font-size: 25px;
+}
